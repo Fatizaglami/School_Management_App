@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirstTest</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="your_app">Your app</string>
+    <string name="etudiantprof">EtudiantProf</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="telephone">Telephone</string>
+    <string name="register">Register</string>
+</resources>
